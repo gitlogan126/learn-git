@@ -1,1 +1,2 @@
-I learned some git today. Addde hotfix.
+I learned some git(bug fix) today. Addde hotfix. Today is a good day cause I leared a lot.
+
