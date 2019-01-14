@@ -1,1 +1,1 @@
-this is the first file in master branch
+this is the first file in master branch. Changes from git_b.
